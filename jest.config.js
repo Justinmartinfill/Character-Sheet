@@ -1,1 +1,1 @@
-module.exports = {preset: "ts-jest", testEnvironment: "node", roots: ["./test"]}
+module.exports = { preset: 'ts-jest', testEnvironment: 'node', roots: ['./test/unit'] }
